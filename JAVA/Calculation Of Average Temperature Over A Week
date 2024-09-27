@@ -1,0 +1,27 @@
+import java.util.Scanner;
+ 
+public class AverageTemperatureCalculator {
+ 
+   	public static void main(String[] args) {
+         	
+         	Scanner scanner = new Scanner(System.in);
+         	
+         	double[] temperatures = new double[7];
+         	
+         	double total = 0;
+         	
+         	for(int i=0;i < 7;i++) {
+                	System.out.println("Enter the temperature on day "+(i+1)+":");
+                	temperatures[i] = scanner.nextDouble();
+                	total += temperatures[i];
+         	}
+         	
+         	double average = total/7;
+         	
+         	System.out.println("Average temperature is "+average);
+                	
+         	scanner.close();
+ 
+   	}
+ 
+}
