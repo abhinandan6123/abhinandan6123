@@ -9,13 +9,22 @@
 --> It's Just For An Storing My Works For Further use!! 
 Hello Everyone, 
 
-     Welcome To My Repository And Check My All Projects and Tasks What I Have Finished During My Learning Process And Execute Some Of My Plans And Performed Some Tasks and Projects... 
-Welcome to my repository! Here, you’ll discover a wide range of projects and tasks that I’ve successfully executed across programming languages such as C, Java, Python, and SQL. Each language has its dedicated folder, making it easy to explore my work in detail.
+     Welcome To My Repository 
+     As an AI/ML Engineer with a deep passion for data-driven solutions, I specialize in developing advanced machine learning models and deploying scalable AI systems. With a strong foundation in predictive analytics and deep learning, I have successfully led multiple end-to-end projects, from ideation to deployment, in fast-paced environments. My technical expertise includes a broad range of tools, frameworks, and cloud technologies to build efficient, high-performance AI systems.
 
-Throughout my career, I’ve had the opportunity to collaborate with multiple companies, where I contributed to high-impact projects, developing scalable applications, optimizing processes, and implementing innovative solutions that directly addressed business challenges. These experiences have sharpened my technical expertise and enhanced my problem-solving abilities.
+I thrive in tackling complex challenges, optimizing algorithms, and applying AI to real-world problems across diverse industries. I have experience in delivering production-grade models, ensuring seamless deployment, and driving business transformation through actionable insights.
 
-I am always eager to improve, apply industry best practices, and tackle complex problems. If you have any suggestions, feedback, or questions about my work, feel free to reach out. I’m committed to continuing my learning journey, refining my skills, and pushing the boundaries of what’s possible.
+Core Skills:
 
+Machine Learning & Deep Learning: Expertise in regression, classification, and ensemble methods, along with advanced deep learning techniques.
+Predictive Analytics & Data Engineering: Skilled in data preprocessing, feature engineering, and building predictive models with high accuracy.
+AI System Deployment: Experience with cloud platforms (AWS, GCP, Azure), containerization (Docker), and API development (Flask).
+Scalable Infrastructure & Optimization: Proficient in optimizing models for performance and scalability, ensuring efficient real-time processing.
+Notable Projects:
+
+Predictive Data Analysis of Delhivery Logistics: Led a team to develop an industry-leading logistics prediction model that achieved MAE of 0.0021 and R² of 0.9998.
+Dynamic Ride Pricing Models: Designed scalable pricing models using advanced machine learning to optimize real-time price adjustments.
+I’m committed to continuous growth and stay at the cutting edge of AI technologies through hands-on projects, open-source contributions, and active participation in the global AI community.
 Thank you for visiting my repository. Let’s connect and collaborate to create something impactful together!
 
 
