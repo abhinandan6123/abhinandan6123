@@ -29,11 +29,7 @@ I thrive in tackling complex challenges, optimizing algorithms, and applying AI 
 ***Scalable Infrastructure & Optimization:*** Proficient in optimizing models for performance and scalability, ensuring efficient real-time processing.
 
 
-***Notable Projects:***
 
-***Predictive Data Analysis of Delhivery Logistics:*** Led a team to develop an industry-leading logistics prediction model that achieved MAE of 0.0021 and R² of 0.9998.
-
-***Dynamic Ride Pricing Models:*** Designed scalable pricing models using advanced machine learning to optimize real-time price adjustments.
 
 I’m committed to continuous growth and stay at the cutting edge of AI technologies through hands-on projects, open-source contributions, and active participation in the global AI community.
 
