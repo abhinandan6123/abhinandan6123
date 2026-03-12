@@ -40,7 +40,7 @@ I'm a **B.Tech student in Artificial Intelligence & Machine Learning** (GPA: 8.5
 - 🧑‍🏫 **Recognized Top 50 AI/ML Mentor** on Topmate — mentored 15+ learners
 - 🌐 **Open-source contributor** — GirlScript Summer of Code
 - ✍️ **Technical blogger** on Medium (300+ views per post)
-- 📍 Hyderabad, India | Open to **Remote Internships** & **MS Applications (USA)**
+- 📍 Hyderabad, India | Open to **Remote Internships**
 
 ---
 
@@ -143,8 +143,6 @@ I'm a **B.Tech student in Artificial Intelligence & Machine Learning** (GPA: 8.5
 🏢 Outlier (Code Evaluator – Freelance)          Nov 2024 | California, USA
    └── 90%+ accuracy in LLM output code evaluations
 
-🏢 OctaNet (Python Developer Intern)             Oct – Nov 2024 | Rajasthan, India
-   └── ATM Simulation System → 98% transactional accuracy
 ```
 
 ---
